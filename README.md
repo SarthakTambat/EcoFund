@@ -2,7 +2,7 @@
 
 A website designed in a 48-hour hackathon to promote environmental sustainability by supporting eco-conscious causes through fundraising tools and decentralized transactions. The platform empowers users to contribute to verified green initiatives, track their impact, and explore solutions for reducing their carbon footprints using the power of technology and transparency.
 
-🔗 **Live Demo**: [Click here](https://madhurtoshniwal.github.io/EcoFund-Fundraising-Platform/)
+🔗 **Live Demo**: [Click here](https://sarthaktambat.github.io/EcoFund/)
 
 
 🌍 Project Goal
@@ -50,3 +50,4 @@ Inspired by global climate challenges and motivated by the hackathon theme to ma
 🎓 B.Tech, Vellore Institute of Technology  
 📧 [Mail:](mailto:madhurtoshniwal03@gmail.com) • 🔗 [LinkedIn](https://linkedin.com/in/madhur-toshniwal
 ) • 🐙 [GitHub](https://github.com/MadhurToshniwal)
+
